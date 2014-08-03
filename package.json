@@ -1,10 +1,10 @@
 {
-  "name": "solarized-dark-apparent-ui",
+  "name": "solarized-dark-apparent-ui-successor",
   "theme": "ui",
-  "version": "1.0.0",
-  "description": "Solarized Dark UI theme for Atom with slightly brighter and more apparent colors",
+  "version": "0.0.0",
+  "description": "Solarized Dark UI theme for Atom with slightly brighter and more apparent colors. The successor!",
   "license": "MIT",
-  "repository": "https://github.com/joshnroy/solarized-dark-apparent-ui",
+  "repository": "https://github.com/joshnroy/solarized-dark-apparent-ui-successor",
   "engines": {
     "atom": ">0.50.0"
   }
